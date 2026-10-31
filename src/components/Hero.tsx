@@ -52,11 +52,11 @@ export const Hero: React.FC<HeroProps> = ({ onSearch, onSelectTool }) => {
             </div>
 
             <h1 className="text-4xl sm:text-5xl lg:text-6xl font-heading font-extrabold text-zinc-900 dark:text-white tracking-tight leading-[1.1]">
-              Every file.<br />
-              <span className="bg-gradient-to-r from-indigo-600 via-violet-600 to-indigo-500 bg-clip-text text-transparent">
-                Zero privacy risk.
-              </span>
-            </h1>
+  Free PDF Tool & <br />
+  <span className="bg-gradient-to-r from-indigo-600 via-violet-600 to-indigo-500 bg-clip-text text-transparent">
+    File Converter
+  </span>
+</h1>
 
             <p className="text-base sm:text-lg text-zinc-600 dark:text-zinc-300 max-w-xl mx-auto lg:mx-0 leading-relaxed font-normal">
               Merge, split, rotate, compress, resize, and convert your PDFs and images directly inside your browser. No files uploaded to foreign servers, ever.
